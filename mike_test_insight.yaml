@@ -11,7 +11,7 @@ info:
     name: Mike Aanenson
     email: mikeaanenson@exosite.com
 
-host: mikea-test-insight.apps.exosite.io/ # Set this to the host your function is on
+host: mikea-test-insight.apps.exosite.io # Set this to the host your function is on
 basePath: /default/ # Set this or the path according to your function
 schemes:
   - https  # Only https is supported.
